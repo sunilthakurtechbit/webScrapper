@@ -7,12 +7,11 @@ This project has been developed using asp.net core and angular 10 using Microser
 # Ocelot 
 has been used as the primary Gateway.
 
-For Web Scrapping, 
+For Web Scrapping, follwoing have been used
 # HtmlAgilityPack and Selenium 
-have been used.
 
-For Report Generation, 
+For Report Generation, following node libraries have been used.
 # JSPDF and dom-to-image 
-node libraries have been used.
+
 
 
