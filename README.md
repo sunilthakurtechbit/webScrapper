@@ -4,13 +4,14 @@ the latest microservice architecture. Front end is primarily developed using Ang
 
 
 This project has been developed using asp.net core and angular 10 using Microservice architecture.
-# Ocelot
+# Ocelot 
 has been used as the primary Gateway.
 
-# For Web Scrapping, 
+For Web Scrapping, 
 # HtmlAgilityPack and Selenium 
 have been used.
-# For Report Generation, 
+
+For Report Generation, 
 # JSPDF and dom-to-image 
 node libraries have been used.
 
